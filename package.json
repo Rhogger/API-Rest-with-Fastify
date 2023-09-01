@@ -1,0 +1,21 @@
+{"name": "api-rest-teste",
+"description": "",
+"version": "1.0.0",
+"main": "index.js",
+"type": "module",
+"scripts": {
+  "build": "tsc -p tsconfig.json",
+  "start": "node index.js"
+},
+"keywords": [],
+"author": "",
+"license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "fastify": "^4.22.1",
+    "fastify-cli": "^5.8.0"
+  }
+}
