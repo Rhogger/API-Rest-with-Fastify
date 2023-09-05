@@ -81,7 +81,9 @@ E pronto, já pode utilizar o Insomnia para fazer as requisições.
 
 - JavaScript
 - Node
+- Nodemon
 - Fastify
+- Fastify CORS
 - Insomnia
 
 <br>
